@@ -5,5 +5,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# Comment aka first revision
